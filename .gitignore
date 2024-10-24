@@ -1,0 +1,4 @@
+checkpoints/
+noisy_student_efficientnet-b1/
+model_best/
+wandb/
